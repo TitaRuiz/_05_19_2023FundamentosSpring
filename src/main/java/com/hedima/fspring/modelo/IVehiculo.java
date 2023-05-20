@@ -1,2 +1,5 @@
-package com.hedima.fspring.modelo;public interface IVehiculo {
+package com.hedima.fspring.modelo;
+
+public interface IVehiculo {
+    String moverse();
 }
